@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "047c7fa0e1b8757f",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24290d994b7d30d2",
+  "active": "9c9764b4b3b08955",
   "lastOpenFiles": [
     "Physik/Klausur.md",
     "Physik/Pyhsik Notizen Part 1.md",
