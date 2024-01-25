@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "Physik/Pyhsik Notizen Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "Physik/Pyhsik Notizen Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "Physik/Pyhsik Notizen Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md"
+                "file": "Physik/Pyhsik Notizen Part 1.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "24290d994b7d30d2",
   "lastOpenFiles": [
-    "Hello.md"
+    "Physik/Klausur.md",
+    "Physik/Pyhsik Notizen Part 1.md",
+    "Hello.md",
+    "Physik",
+    "Englisch"
   ]
 }
