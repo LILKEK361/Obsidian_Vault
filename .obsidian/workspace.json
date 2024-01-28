@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c8b9dc5076e1a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/Gruppe_B_Smartphone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
+                "file": "Wirtschaft/Gruppe_B_Smartphone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
+                "file": "Wirtschaft/Gruppe_B_Smartphone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md"
+                "file": "Wirtschaft/Gruppe_B_Smartphone.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24290d994b7d30d2",
+  "active": "4c8b9dc5076e1a36",
   "lastOpenFiles": [
+    "Wirtschaft",
+    "Spanisch/Käsebällchen_Bollas_con_queso.md",
+    "Wirtschaft/Gruppe_B_Smartphone.md",
     "Pasted image 20240128125054.png",
     "Physik/Pyhsik Notizen Part 1.md",
-    "Spanisch/Käsebällchen_Bollas_con_queso.md",
     "Spanisch",
     "Physik/Klausur.md",
     "Hello.md",
