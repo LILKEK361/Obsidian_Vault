@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Pyhsik Notizen Part 1.md",
+                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Pyhsik Notizen Part 1.md",
+                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Pyhsik Notizen Part 1.md",
+                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Pyhsik Notizen Part 1.md"
+                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c9764b4b3b08955",
+  "active": "24290d994b7d30d2",
   "lastOpenFiles": [
-    "Physik/Klausur.md",
+    "Pasted image 20240128125054.png",
     "Physik/Pyhsik Notizen Part 1.md",
+    "Spanisch/Käsebällchen_Bollas_con_queso.md",
+    "Spanisch",
+    "Physik/Klausur.md",
     "Hello.md",
     "Physik",
     "Englisch"
