@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "801758b17c03f854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Vocab test 30.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Gruppe_B_Smartphone.md",
+                "file": "Englisch/Vocab test 30.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Gruppe_B_Smartphone.md",
+                "file": "Englisch/Vocab test 30.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Gruppe_B_Smartphone.md"
+                "file": "Englisch/Vocab test 30.1.md"
               }
             }
           }
@@ -146,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c8b9dc5076e1a36",
+  "active": "801758b17c03f854",
   "lastOpenFiles": [
+    "Wirtschaft/Gruppe_B_Smartphone.md",
+    "Englisch/Vocab test 30.1.md",
+    "Englisch",
     "Wirtschaft",
     "Spanisch/Käsebällchen_Bollas_con_queso.md",
-    "Wirtschaft/Gruppe_B_Smartphone.md",
     "Pasted image 20240128125054.png",
     "Physik/Pyhsik Notizen Part 1.md",
     "Spanisch",
