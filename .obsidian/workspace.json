@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94d6ce501ec74c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Englisch Narroter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Vocab test 30.1.md",
+                "file": "Englisch/Englisch Narroter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Vocab test 30.1.md",
+                "file": "Englisch/Englisch Narroter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Vocab test 30.1.md"
+                "file": "Englisch/Englisch Narroter.md"
               }
             }
           }
@@ -170,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801758b17c03f854",
+  "active": "94d6ce501ec74c8f",
   "lastOpenFiles": [
-    "Wirtschaft/Gruppe_B_Smartphone.md",
     "Englisch/Vocab test 30.1.md",
+    "Englisch/Englisch Narroter.md",
+    "Untitled",
+    "Wirtschaft/Gruppe_B_Smartphone.md",
     "Englisch",
     "Wirtschaft",
     "Spanisch/Käsebällchen_Bollas_con_queso.md",
