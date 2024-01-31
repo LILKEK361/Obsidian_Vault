@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Englisch Narroter.md",
+                "file": "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Englisch Narroter.md",
+                "file": "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Englisch Narroter.md",
+                "file": "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Englisch Narroter.md"
+                "file": "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md"
               }
             }
           }
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,19 +185,27 @@
   },
   "active": "94d6ce501ec74c8f",
   "lastOpenFiles": [
-    "Englisch/Vocab test 30.1.md",
-    "Englisch/Englisch Narroter.md",
-    "Untitled",
+    "Wirtschaft/Aufgaben Wirtschaft 30.1.24.md",
+    "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
+    "lu875321xxe.tmp",
+    "lu875321xx8.tmp",
+    "lu875321xx2.tmp",
+    "Pasted image 20240128125054.png",
+    "Wirtschaft/Laufzettel Nick.md",
+    "lu875321xwc.tmp",
+    "07_Laufzettel+Aufgabe.docx",
+    "Wirtschaft/07_Laufzettel+Aufgabe.docx",
+    "07_Laufzettel+Aufgabe.pdf",
+    "Untitled.md",
     "Wirtschaft/Gruppe_B_Smartphone.md",
+    "Englisch/Englisch Narroter.md",
+    "Englisch/Vocab test 30.1.md",
+    "Deutsc",
     "Englisch",
     "Wirtschaft",
     "Spanisch/Käsebällchen_Bollas_con_queso.md",
-    "Pasted image 20240128125054.png",
     "Physik/Pyhsik Notizen Part 1.md",
-    "Spanisch",
     "Physik/Klausur.md",
-    "Hello.md",
-    "Physik",
-    "Englisch"
+    "Hello.md"
   ]
 }
