@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
+                "file": "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b394623de2f06e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/VLSM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
+                "file": "Englisch/VLSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md",
+                "file": "Englisch/VLSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/Käsebällchen_Bollas_con_queso.md"
+                "file": "Englisch/VLSM.md"
               }
             }
           }
@@ -183,9 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d6ce501ec74c8f",
+  "active": "b394623de2f06e2d",
   "lastOpenFiles": [
     "Deutsc/Du bist ne Pussy von Astrid vo  Friesen.md",
+    "Englisch/VLSM.md",
+    "Informatik",
     "Wirtschaft/Aufgaben Wirtschaft 30.1.24.md",
     "lu875321xxe.tmp",
     "lu875321xx8.tmp",
@@ -196,13 +210,12 @@
     "07_Laufzettel+Aufgabe.docx",
     "Wirtschaft/07_Laufzettel+Aufgabe.docx",
     "07_Laufzettel+Aufgabe.pdf",
-    "Untitled.md",
+    "Informatik/Untitled.md",
     "Wirtschaft/Gruppe_B_Smartphone.md",
     "Englisch/Englisch Narroter.md",
     "Englisch/Vocab test 30.1.md",
     "Deutsc",
     "Englisch",
-    "Wirtschaft",
     "Spanisch/Käsebällchen_Bollas_con_queso.md",
     "Physik/Pyhsik Notizen Part 1.md",
     "Physik/Klausur.md",
