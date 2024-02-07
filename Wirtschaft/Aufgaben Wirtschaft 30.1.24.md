@@ -31,3 +31,7 @@ Nr. 3
 Nr. 1 
 
 Die OECD möchte dies durch eine Förderung der Bildung errecihen. Daruch haben die Menschen im Land einen höheren Bildungsstandert und können sich besser mit Politschen Themen auseinander setzten.
+
+
+![[07_LaufzettelAufgabe.odt]]
+
