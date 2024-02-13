@@ -60,9 +60,15 @@ Gateway: 192.168.178.193
 
 Nr 4)
 
+FB1 mit 2 PCs netze: 4
+
+ii. FB2 mit 5 PCs netze: 7
+
+iii. FB3 mit 29 netze: 31
+
 11000000
 
 
 11100000  -->3
 11111000 --> 2
-111
+11111100 --> 1
